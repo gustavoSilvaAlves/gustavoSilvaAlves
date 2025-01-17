@@ -1,8 +1,8 @@
 Hello world me chamo Gustavo,
 
-- 🐍Estudo Python
-- Java
+- Python
 - SQL
+- IA
 - Powershell
 
 
