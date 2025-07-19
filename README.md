@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gustavo!
 
-Sou apaixonado por tecnologia e atuo desenvolvendo soluções que combinam automação, dados e inteligência artificial para resolver problemas do dia a dia.
+Sou apaixonado por tecnologia e atuo desenvolvendo soluções que combinam automação, dados e inteligência artificial.
 
 ## 💻 Tecnologias que uso
 
