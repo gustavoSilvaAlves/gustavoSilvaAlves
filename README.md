@@ -4,11 +4,11 @@ Sou apaixonado por tecnologia e atuo desenvolvendo soluções que combinam autom
 
 ## 💻 Tecnologias que uso
 
-- 🐍 **Python** – automações, APIs, IA, web scraping
-- 🧠 **IA (Inteligência Artificial)** – uso de LLMs, vetorização e chatbots
+- 🐍 **Python** – Django, Flask, StreamLit, FastAPI e Selenium
+- 🧠 **IA (Inteligência Artificial)** – LLMs(ChatGpt, Gemini e DeepSeek), Hugging Face, Docling, Qdrant, vetorização e chatbots
 - 🛢️ **SQL** – manipulação de dados em PostgreSQL, MySQL e SQLite
 - 💻 **PowerShell** – scripts de automação para sistemas Windows
-- 🌐 **APIs e Integrações** – conectando sistemas como Salesforce, SAP, WordPress
+- 🌐 **APIs e Integrações** – conectando sistemas como Salesforce, SAP, WordPress, TMS, Jira e APIs públicas. 
 
 ## 🚀 Alguns projetos em destaque
 
@@ -28,6 +28,3 @@ Script em PowerShell que realiza ativação automatizada do Windows a partir de 
 - ✉️ E-mail: seuemail@dominio.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
 
----
-
-> Sempre buscando criar soluções que unam automação e inteligência para facilitar o mundo real.
