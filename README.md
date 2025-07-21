@@ -26,5 +26,4 @@ Script em PowerShell que realiza ativação automatizada do Windows a partir de 
 
 ### 📫 Como me encontrar
 - ✉️ E-mail: gu.silvaalves@gmail.com
-- 💼 Linkedin: [[(https://www.linkedin.com/in/gustavo-silva-97b6b0201/)) 
-](https://www.linkedin.com/in/gustavo-silva-97b6b0201/)](https://www.linkedin.com/in/gustavo-silva-97b6b0201/)
+- 💼 Linkedin: https://www.linkedin.com/in/gustavo-silva-97b6b0201/
