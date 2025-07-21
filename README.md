@@ -12,8 +12,9 @@ Sou apaixonado por tecnologia e atuo desenvolvendo soluções que combinam autom
 
 ## 🚀 Alguns projetos em destaque
 
-### [chat_bot.py](https://github.com/gustavoSilvaAlves/chat_bot.py)
-Bot para envio automático de mensagens em sistemas de delivery, utilizando `Selenium` e `requests`.
+### https://github.com/gustavoSilvaAlves/Chatbot---Base-de-conhecimentos
+
+Chatbot interno criado para responder dúvidas relacionado á fluxos internos da empresa usando documentações do Confluence como base de dados. Utiliza Airflow para extração, LangChain para orquestração, Qdrant para armazenamento e OpenAI para geração dos embeddings e respostas.
 
 ### [SAW - Sistema de Ativação do Windows](https://github.com/gustavoSilvaAlves/SAW-Sistema-de-Ativa-o-do-Windows)
 Script em PowerShell que realiza ativação automatizada do Windows a partir de chaves armazenadas em um banco de dados.
