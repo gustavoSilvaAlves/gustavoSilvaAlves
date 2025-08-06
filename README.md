@@ -8,7 +8,8 @@ Sou apaixonado por tecnologia e atuo desenvolvendo soluções que combinam autom
 - 🧠 **IA (Inteligência Artificial)** – LLMs(ChatGpt, Gemini e DeepSeek), Hugging Face, Docling, Qdrant, embeddings e chatbots
 - 🛢️ **SQL** – manipulação de dados em PostgreSQL, MySQL e SQLite
 - 💻 **PowerShell** – scripts de automação para sistemas Windows
-- 🌐 **APIs e Integrações** – REST e SOAP. Conectando sistemas como Salesforce, SAP, WordPress, TMS, Jira, e APIs públicas. 
+- 🌐 **APIs e Integrações** – REST e SOAP. Conectando sistemas como Salesforce, SAP, WordPress, TMS, Jira, e APIs públicas.
+- Jira Postman Swagger PostgreSQL Notion SoapUI Selenium
 
 ## 🚀 Alguns projetos em destaque
 
