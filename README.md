@@ -16,7 +16,7 @@ Sou apaixonado por tecnologia e atuo desenvolvendo soluções que combinam autom
 
 Chatbot interno criado para responder dúvidas relacionado á fluxos internos da empresa usando documentações do Confluence como base de dados. Utiliza Airflow para extração, LangChain para orquestração, Qdrant para armazenamento e OpenAI para geração dos embeddings e respostas.
 
-### [Web Scraping CND - Certidão Negativa de Débitos ] https://github.com/gustavoSilvaAlves/CND-API
+### [Web Scraping CND - Certidão Negativa de Débitos ](https://github.com/gustavoSilvaAlves/CND-API)
 
 Realiza o processo de web scraping de forma automatizada e retorna o conteúdo da certidão em um formato JSON estruturado.
 
