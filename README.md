@@ -16,6 +16,10 @@ Sou apaixonado por tecnologia e atuo desenvolvendo soluções que combinam autom
 
 Chatbot interno criado para responder dúvidas relacionado á fluxos internos da empresa usando documentações do Confluence como base de dados. Utiliza Airflow para extração, LangChain para orquestração, Qdrant para armazenamento e OpenAI para geração dos embeddings e respostas.
 
+### [Web Scraping CND - Certidão Negativa de Débitos ] https://github.com/gustavoSilvaAlves/CND-API
+
+Realiza o processo de web scraping de forma automatizada e retorna o conteúdo da certidão em um formato JSON estruturado.
+
 ### [SAW - Sistema de Ativação do Windows](https://github.com/gustavoSilvaAlves/SAW-Sistema-de-Ativa-o-do-Windows)
 
 Script em PowerShell que realiza ativação automatizada do Windows a partir de chaves armazenadas em um banco de dados.
