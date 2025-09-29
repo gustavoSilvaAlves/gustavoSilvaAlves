@@ -4,8 +4,8 @@ Sou apaixonado por tecnologia e atuo desenvolvendo soluções que combinam autom
 
 ## 💻 Tecnologias que uso
 
-- 🐍 **Python** – Django, Flask, StreamLit, FastAPI e Selenium
-- 🧠 **IA (Inteligência Artificial)** – LLMs(ChatGpt, Gemini e DeepSeek), Hugging Face, Docling, Qdrant, embeddings e chatbots
+- 🐍 **Python** – Django, FastAPI, Flask, StreamLit e Selenium
+- 🧠 **IA (Inteligência Artificial)** – LangChain, LangGraph, LangSmith, Docling, N8N, LLMs(ChatGpt, Gemini e DeepSeek), Hugging Face, Qdrant, embeddings e chatbots
 - 🛢️ **SQL** – manipulação de dados em PostgreSQL, MySQL e SQLite
 - 💻 **PowerShell** – scripts de automação para sistemas Windows
 - 🌐 **APIs e Integrações** – REST e SOAP. Conectando sistemas como Salesforce, SAP, WordPress, TMS, Jira, e APIs públicas.
