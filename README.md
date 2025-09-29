@@ -6,9 +6,10 @@ Sou apaixonado por tecnologia e atuo desenvolvendo soluções que combinam autom
 
 - 🐍 **Python** – Django, FastAPI, Flask, StreamLit e Selenium
 - 🧠 **IA (Inteligência Artificial)** – LangChain, LangGraph, LangSmith, Docling, N8N, LLMs(ChatGpt, Gemini e DeepSeek), Hugging Face, Qdrant, embeddings e chatbots
+- 🐳 **Docker** – criação e gerenciamento de containers para deploy de aplicações
 - 🛢️ **SQL** – manipulação de dados em PostgreSQL, MySQL e SQLite
+- 🌐 **APIs e Integrações** – REST e SOAP. Conectando sistemas e automatizando processos. Salesforce, SAP, WordPress, TMS, Jira, e APIs públicas.
 - 💻 **PowerShell** – scripts de automação para sistemas Windows
-- 🌐 **APIs e Integrações** – REST e SOAP. Conectando sistemas como Salesforce, SAP, WordPress, TMS, Jira, e APIs públicas.
 
 ## 🚀 Alguns projetos em destaque
 
