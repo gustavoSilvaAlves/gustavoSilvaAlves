@@ -21,6 +21,11 @@ Chatbot interno criado para responder dúvidas relacionado á fluxos internos da
 
 EditalGPT é uma API de alta performance projetada para revolucionar a análise de editais de licitação. Utilizando o poder do modelo GPT-5 da OpenAI e a orquestração de agentes especialistas via LangChain, esta API transforma documentos PDF complexos em dados JSON estruturados e prontos para uso, de forma rápida e precisa.
 
+### [Fiscal Cidadão ](https://github.com/gustavoSilvaAlves/Fiscal-Cidadao)
+
+Projeto pessoal em desenvolvimento que tem como objetivo **monitorar os gastos e votos de deputados selecionados pelo usuário**, facilitando o acompanhamento da atuação parlamentar.  
+Os insights e notificações são enviados diretamente pelo **WhatsApp**, aproximando o cidadão da vida política de forma simples e acessível.
+
 ### [Web Scraping CND - Certidão Negativa de Débitos ](https://github.com/gustavoSilvaAlves/CND-API)
 
 Realiza o processo de web scraping de forma automatizada e retorna o conteúdo da certidão em um formato JSON estruturado.
