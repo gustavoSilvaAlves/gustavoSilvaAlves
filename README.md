@@ -33,7 +33,8 @@ Realiza o processo de web scraping de forma automatizada e retorna o conteúdo d
 
 ## 📈 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoSilvaAlves&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilamac2023&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoSilvaAlves&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoSilvaAlves&layout=compact&theme=radical)
+
 
 ---
 
