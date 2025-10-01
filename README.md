@@ -11,7 +11,7 @@ Sou apaixonado por tecnologia e atuo desenvolvendo soluções que combinam autom
 - 🌐 **APIs e Integrações** – REST e SOAP. Conectando sistemas e automatizando processos. Salesforce, SAP, WordPress, TMS, Jira, e APIs públicas.
 - 💻 **PowerShell** – scripts de automação para sistemas Windows
 
-## 🚀 Alguns projetos em destaque
+## 🚀 projetos em destaque
 
 ### [Chatbot — Base de conhecimentos](https://github.com/gustavoSilvaAlves/ChatbotAI)
 
