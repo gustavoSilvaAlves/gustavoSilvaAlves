@@ -30,18 +30,20 @@ Os insights e notificações são enviados diretamente pelo **WhatsApp**, aproxi
 
 Realiza o processo de web scraping de forma automatizada e retorna o conteúdo da certidão em um formato JSON estruturado.
 
-
 ## 📈 Estatísticas GitHub  
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoSilvaAlves&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoSilvaAlves&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=gustavoSilvaAlves&theme=tokyonight)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoSilvaAlves&layout=compact&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=gustavoSilvaAlves&theme=tokyonight" height="150"/>
+</div>
 
 </div>
 
+---
 
 ### 📫 Como me encontrar
 - ✉️ E-mail: gu.silvaalves@gmail.com
