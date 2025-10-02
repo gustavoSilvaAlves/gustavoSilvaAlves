@@ -15,7 +15,7 @@ Sou apaixonado por tecnologia e atuo desenvolvendo soluções que combinam autom
 
 ### [Chatbot — Base de conhecimentos / CRM](https://github.com/gustavoSilvaAlves/ChatbotAI)
 
-Chatbot interno criado para responder dúvidas relacionado á fluxos internos da empresa e consulta de informações ao Salesforce e SAP. LangChain para orquestração, Qdrant para armazenamento e OpenAI para geração dos embeddings, Consultas as bases de dados e respostas.
+O Mbot é um assistente de IA projetado para otimizar o acesso a informações relacionadas a base de conhecimento e sistemas internos da empresa(Salesforce e SAP), sendo utilizado em diversas equipes da empresa, incluindo o atendimento e suporte ao cliente.
 
 ### [Análise de Editais Públicos com OpenAI](https://github.com/gustavoSilvaAlves/EditalGPT-API)
 
