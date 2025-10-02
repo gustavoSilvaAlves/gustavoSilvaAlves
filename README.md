@@ -13,9 +13,9 @@ Sou apaixonado por tecnologia e atuo desenvolvendo soluções que combinam autom
 
 ## 🚀 projetos em destaque
 
-### [Chatbot — Base de conhecimentos](https://github.com/gustavoSilvaAlves/ChatbotAI)
+### [Chatbot — Base de conhecimentos / CRM](https://github.com/gustavoSilvaAlves/ChatbotAI)
 
-Chatbot interno criado para responder dúvidas relacionado á fluxos internos da empresa usando documentações do Confluence como base de dados. Utiliza Airflow para extração, LangChain para orquestração, Qdrant para armazenamento e OpenAI para geração dos embeddings e respostas.
+Chatbot interno criado para responder dúvidas relacionado á fluxos internos da empresa e consulta de informações ao Salesforce e SAP. LangChain para orquestração, Qdrant para armazenamento e OpenAI para geração dos embeddings, Consultas as bases de dados e respostas.
 
 ### [Análise de Editais Públicos com OpenAI](https://github.com/gustavoSilvaAlves/EditalGPT-API)
 
