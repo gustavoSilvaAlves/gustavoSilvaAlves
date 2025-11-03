@@ -15,11 +15,11 @@ Sou apaixonado por tecnologia e atuo desenvolvendo soluções que combinam autom
 
 ### [Chatbot — Base de conhecimentos / CRM](https://github.com/gustavoSilvaAlves/ChatbotAI)
 
-O Mbot é um assistente de IA projetado para otimizar o acesso a informações relacionadas a base de conhecimento e sistemas internos da empresa(Salesforce e SAP), sendo utilizado em diversas equipes da empresa, incluindo o atendimento e suporte ao cliente.
+O Mbot é um assistente de IA projetado para otimizar o acesso a informações relacionadas a base de conhecimento e sistemas internos da empresa(Salesforce e SAP), sendo utilizado em diversas equipes da empresa, incluindo o atendimento e suporte ao cliente. Utilizando a orquestração de agentes via LangGraph. 
 
 ### [Análise de Editais Públicos com OpenAI](https://github.com/gustavoSilvaAlves/EditalGPT-API)
 
-EditalGPT é uma API de alta performance projetada para revolucionar a análise de editais de licitação. Utilizando o poder do modelo GPT-5 da OpenAI e a orquestração de agentes especialistas via LangChain, esta API transforma documentos PDF complexos em dados JSON estruturados e prontos para uso, de forma rápida e precisa.
+EditalGPT é uma API de alta performance projetada para revolucionar a análise de editais de licitação. Utilizando o poder do modelo GPT-5 da OpenAI e a orquestração de agentes especialistas via LangChain e monitoramento usando o langSmith, esta API transforma documentos PDF complexos em dados JSON estruturados e prontos para uso, de forma rápida e precisa.
 
 ### [Fiscal Cidadão ](https://github.com/gustavoSilvaAlves/Fiscal-Cidadao)
 
